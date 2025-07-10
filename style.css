@@ -5,3 +5,10 @@ body {
     padding-top: 2rem;
     background-color: #e2edff;
 }
+#projects {
+    background-color: #e2edff;
+}
+.card-img-top {
+  height: auto;
+  max-width: 100%;
+}
